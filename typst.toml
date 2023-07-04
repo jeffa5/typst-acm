@@ -1,0 +1,8 @@
+[package]
+name = "acm"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Andrew Jeffery <dev@jeffas.io>"]
+license = "MIT"
+description = "Template for ACM papers"
+repository = "https://github.com/jeffa5/typst-acm"
