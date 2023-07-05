@@ -43,7 +43,7 @@
 #let sigplan(
   title: none,
   authors: (),
-  conference: none,
+  conference: (name: "Conference", location: "New York", date: "2023"),
   abstract: none,
   keywords: (),
   copyright: "No copyright",
