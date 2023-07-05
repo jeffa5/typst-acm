@@ -70,7 +70,9 @@
 
       #content
 
-      #show-bibliography(bibliography-file)
+      #if bibliography-file != none {
+        show-bibliography(bibliography-file)
+      }
     ]
   )
 }
